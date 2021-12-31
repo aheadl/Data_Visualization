@@ -7,7 +7,7 @@ In this first part, I conducted an exploratory data analysis on a dataset. I use
 The analysis in this part consists of simple univariate relationships, bivariate and multivariate relationships. I identified the  main feature(s) of interest in your dataset then explored the forementioned relationships and provided a variety of plots - bar, histograms, scatter, boxplots e.t.c
 
 
-See the Readme for a summary of my findings and key insights for presentation.
+See the Readme_onProject file for a summary of my findings and key insights for presentation.
 
 Part 2 - Explanatory Data Visualization
 This part consists of explanatory data visualizations to tell a story about the data you explored and a slide deck of some of the exploratory tasks
